@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 -->
 
 Я - Истигечев Борис, frontend-разработчик. Основной стек:
+* HTML, CSS
 * React
-* TypeScript
-* JavaScript
-* MobX
-* Redux
+* JavaScript, TypeScript
+* Redux,MobX
+* React Router
+* React Query
+* REST API
 * Ant Design, CoreUI
+* Vue.js
+* Vuex
+* Работал с Webpack, Node.js
 
 Контакты:
 * Telegram: [Filin_4](http://t.me/Filin_4)
