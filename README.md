@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Я - Истигечев Борис, frontend-разработчик. Основной стек:
+* React
+* TypeScript
+* JavaScript
+* MobX
+* Redux
+* Ant Design, CoreUI
+
+Контакты:
+* Telegram: [Filin_4](http://t.me/Filin_4)
