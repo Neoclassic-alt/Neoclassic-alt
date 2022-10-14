@@ -29,4 +29,10 @@ Here are some ideas to get you started:
 * Работал с Webpack, Node.js
 
 Контакты:
-* Telegram: [Filin_4](http://t.me/Filin_4)
+* Telegram: [@Filin_4](http://t.me/Filin_4)
+
+## Мои работы
+- [Импортозамещение IT-сервисов](https://ru-itworks.ru)
+- [GoHub](https://neoclassic-alt.github.io/gohub/)
+- [CarStore](https://neoclassic-alt.github.io/carstore/)
+- [Dart Sevice Manager](https://github.com/Neoclassic-alt/dart-service-manager)
