@@ -10,7 +10,7 @@
 Основной проект — [Impact Reward](http://impact-reward.com), проект награждения пользователей за социальную активность.
 Веду [открытый репозиторий](https://github.com/Neoclassic-alt/impact-reward-frontend), где подробно рассказано о проекте.
 
-В свободное время читаю статьи, изучаю новые технологии или пишу [свою книгу](https://author.today/work/331106).
+В свободное время читаю статьи и изучаю новые технологии. <!--или пишу [свою книгу](https://author.today/work/331106)-->
 
 ## Используемые языки и технологии
 
@@ -20,7 +20,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" title="Pinia" alt="Pinia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Pinia" alt="Pinia" width="40" height="40"/>&nbsp;
