@@ -5,17 +5,9 @@
 
 ## О себе
 
-Занимаюсь фронтенд-разработкой с начала 2021 года, имею более 1,5 лет коммерческого опыта.
+Занимаюсь фронтенд-разработкой с начала 2021 года, имею более 4 лет коммерческого опыта.
 
-Основной проект — [Impact Reward](http://impact-reward.com), проект награждения пользователей за социальную активность.
-Веду [открытый репозиторий](https://github.com/Neoclassic-alt/impact-reward-frontend), где подробно рассказано о проекте.
-
-В свободное время читаю статьи и изучаю новые технологии, а также пишу [рассказы](https://author.today/u/b_voron/works).
-
-Примеры заданий:
-
-- https://github.com/Neoclassic-alt/contact-manage (сайт https://contact-manage-phi.vercel.app)
-- https://github.com/Neoclassic-alt/supergym-landing-page (сайт https://neoclassic-alt.github.io/supergym-landing-page/)
+В свободное время читаю статьи и изучаю новые технологии.
 
 ## Используемые языки и технологии
 
